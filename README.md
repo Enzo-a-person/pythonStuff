@@ -1,4 +1,4 @@
 # pythonStuff
-some python projects i have made
-you can do whatever you want with these files i dont care lol.
+Some python projects I have made.
+You can do whatever you want with these files I dont care lol.
 have fun
