@@ -1,3 +1,4 @@
+#you dont need comments for this :)
 print ("hello world")
 print ("i have a question why does every program start with this?")
 print ("why do we start by saying hello world?")
