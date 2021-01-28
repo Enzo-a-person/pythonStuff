@@ -1,4 +1,4 @@
-#rng the video game by Enzo
+#rng the video game by Enzo lol
 import random 
 n = random.randint(0,10) #creates a number between 0 or 10
 x = int(input("Please enter a number between 0 and 10 if the number is bigger then what i guess you win: "))
