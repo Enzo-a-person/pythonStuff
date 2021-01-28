@@ -10,5 +10,5 @@ print ("speeking of hello world programs. have you seen the windows 1 hello worl
 print ("its like 50 pages long. wonder what idiot wrote that.")
 print ("then again maybe it was not there fault. maybe it was hard to do that on windows 1.")
 print (" i'm in french class rn and i should probably be paying atention to that but i'm not.")
-print (" there talking about fair tales.")
+print (" there talking about fairy tales.")
 print (" i think i should pay attention to that bye.")
