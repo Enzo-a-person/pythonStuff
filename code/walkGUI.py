@@ -7,7 +7,7 @@ t = turtle.Turtle('turtle')
 from tkinter import *
 from tkinter import ttk
 import random
-#this command will make sure the turtle will start facing up
+#this command will make sure the turtle will start facing up, and make it blue, because blue is my favorite color.
 t.color('blue','blue')
 t.left(90)
 
